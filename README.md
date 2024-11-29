@@ -539,5 +539,3 @@ You can also run this task as a SLURM job using the script [pgge_slurm.sh](https
 
 The output graph from `pgge` is shown below. 
 
-![pgge-l100000-s5000.pgge.tsv.png](https://github.com/nuzla/Pangenome-Graphs-Workshop/blob/main/pgge/pgge-l100000-s5000.pgge.tsv.png?raw=true)
--->
