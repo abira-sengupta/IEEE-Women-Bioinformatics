@@ -111,9 +111,9 @@ As per the index this assembly consists of 6 samples described in the below tabl
 |NC_017518.1 (Reference)              | 2,248,966 |     N/A|     N/A| N/A |  N/A|
 |NC_017518.1_SNP_5000                | 2,248,966 |   5,000|       0|   0 |   0 |
 |NC_017518.1_INDEL_5000               | 2,249,048 |       0|   5,000|   0 |   0 |
-|NC_017518.1_SNP_4000_INDEL_4000      | 2,153,883 |   4,000|   4,00|   0 |   0 |
-|NC_017518.1_SNP_4000_INDEL_4000_INV_4| 2,242,147 |   4,000|   4,00|   4 |   0 |
-|NC_017518.1_SNP_4000_INDEL_4000_CNV_4| 2,415,498 |   4,000|   4,00|   0 |   4 |
+|NC_017518.1_SNP_4000_INDEL_400      | 2,153,883 |   4,000|   4,00|   0 |   0 |
+|NC_017518.1_SNP_4000_INDEL_400_INV_4| 2,242,147 |   4,000|   4,00|   4 |   0 |
+|NC_017518.1_SNP_4000_INDEL_400_CNV_4| 2,415,498 |   4,000|   4,00|   0 |   4 |
 
 ### 3. Executing `pggb` tool using Singularity container
 We can follow the procedure in https://github.com/pangenome/pggb#singularity to setup the Singularity image. This is already done and the image is in `/nesi/project/ga03793/software/pggb/` directory for version 0.5.3. 
